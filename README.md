@@ -1,5 +1,7 @@
 Ohhh I got something special here
 
+![sqrtrev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sqrtrev&show_icons=true)
+
 <!--
 **sqrtrev/sqrtrev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
