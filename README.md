@@ -3,7 +3,9 @@
 I'm currently undergraduate students at [Korea University](https://korea.edu, "Korea University") and play CTFs with [WTL](https://wrecktheline.com, "Team WreckTheLine") and [SG](https://ctftime.org/team/130817, "Super Guesser"). Super Guesser is a team that I organized with [sapra](https://twitter.com/pwntheweb, "sapra") from Team OpenToAll.
 Anyway, I love to play CTFs and research about web security. If you want more information about me, you can check my [VL](https://vuln.live/about, "website").
 
-## The Language I do
+![sqrtrev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sqrtrev&show_icons=true)
+
+## The Languages I do
 - **Python**
 - PHP
 - C
@@ -12,8 +14,8 @@ Anyway, I love to play CTFs and research about web security. If you want more in
 - Java
 - Assembly
 - Javascript(Also node.js)
+- etc..(like shell script, Go, etc...)
 
-![sqrtrev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sqrtrev&show_icons=true)
 
 <!--
 **sqrtrev/sqrtrev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
