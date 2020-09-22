@@ -12,7 +12,7 @@ Anyway, I love to play CTFs and research web security. If you want more informat
 - C++
 - C#
 - Java
-- Assembly
+- x86 Assembly(I love Intel's)
 - Javascript(Also node.js)
 - etc..(like shell script, Go, etc...)
 
