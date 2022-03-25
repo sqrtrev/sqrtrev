@@ -3,7 +3,6 @@
 I'm currently an undergraduate student at [Korea University](https://korea.edu) and play CTFs with [WreckTheLine](https://wrecktheline.com) and [Super Guesser](https://ctftime.org/team/130817). Super Guesser is a team that I founded with [sapra](https://twitter.com/0xsapra) from Team OpenToAll.
 Anyway, I love to play CTFs and research web security. If you want more information about me, you can check my [cv](http://cv.vuln.live).
 
-![sqrtrev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sqrtrev&show_icons=true&count_private=true)
 
 ## The Languages I do
 - **Python**
