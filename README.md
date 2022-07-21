@@ -1,7 +1,7 @@
 # SeungHyun Kim - sqrtrev
 
-I'm currently an undergraduate student at [Korea University](https://korea.edu) and play CTFs with [WreckTheLine](https://wrecktheline.com) and [Super Guesser](https://ctftime.org/team/130817). Super Guesser is a team that I founded with [sapra](https://twitter.com/0xsapra) from Team OpenToAll.
-Anyway, I love to play CTFs and research web security. If you want more information about me, you can check my [cv](http://cv.vuln.live).
+I'm currently an undergraduate student at [Korea University](https://korea.edu) and play CTFs with [WreckTheLine](https://wrecktheline.com) and [Super Guesser](https://ctftime.org/team/130817). Super Guesser is a team that I founded.
+Anyway, I love to play CTFs and research web security. If you want more information about me, you can check my [cv](http://cv.vuln.live?lang=ko).
 
 
 ## The Languages I do
